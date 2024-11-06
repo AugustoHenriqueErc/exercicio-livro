@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Livro
+comment0.text=\r\n\ Representa\ um\ livro\ que\ pode\ ser\ armazenado\r\n\ em\ uma\ prateleira\ de\ uma\ biblioteca.\r\n\ \r\n\ @author\ Daniel\ Conrado\ \r\n\ @version\ 2023\r\n
+comment1.params=tituloDoLivro\ autoresDoLivro\ anoDePublica\u00E7\u00E3o
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Livro.\r\n\ \r\n\ Informe\ os\ autores\ separados\ por\ v\u00EDrgula,\ p.\ ex.\:\r\n\ \ Cristiane\ Targa,\ Daniel\ Conrado\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment2.text=\r\n\ Retorna\ o\ t\u00EDtulo\ do\ livro\r\n
+comment3.params=novoTitulo
+comment3.target=void\ mudarTitulo(java.lang.String)
+comment3.text=\r\n\ Muda\ o\ t\u00EDtulo\ deste\ objeto\ Livro.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAutores()
+comment4.text=\r\n\ retorna\ os\ autores\ do\ livro.\r\n
+comment5.params=
+comment5.target=int\ getAno()
+comment5.text=\r\n\ retorna\ o\ ano\ de\ publica\u00E7\u00E3o\ do\ livro.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getCita\u00E7\u00E3o()
+comment6.text=\r\n\ Retorna\ a\ cita\u00E7\u00E3o\ do\ livro,\ para\ usar\r\n\ em\ textos\ acad\u00EAmicos.\r\n
+comment7.params=
+comment7.target=void\ imprimir()
+numComments=8

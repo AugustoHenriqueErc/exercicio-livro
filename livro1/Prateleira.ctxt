@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Prateleira
+comment0.text=\r\n\ Representa\ uma\ prateleira\ da\ biblioteca.\r\n\ \r\n\ Para\ facilitar\ a\ localiza\u00E7\u00E3o,\ a\ posi\u00E7\u00E3o\r\n\ das\ prateleiras\ \u00E9\ registrada\ em\ termos\r\n\ de\ linha\ e\ posi\u00E7\u00E3o\ na\ linha.\r\n\ \r\n\ A\ biblioteca\ possui\ v\u00E1rias\ linhas\ e\r\n\ cada\ linha\ cabe\ v\u00E1rias\ prateleiras.\r\n\ \r\n\ @author\ Daniel\ Conrado\ \r\n\ @version\ 2023\r\n
+comment1.params=quantidadeMaxLivros
+comment1.target=Prateleira(int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Prateleira\r\n
+comment2.params=livro
+comment2.target=void\ adicionarLivro(Livro)
+comment2.text=\r\n\ Adiciona\ um\ livro\ \u00E0\ prateleira,\ se\ couber.\r\n
+comment3.params=
+comment3.target=int\ n\u00FAmeroDeLivros()
+comment3.text=\r\n\ Retorna\ o\ n\u00FAmero\ de\ livros\ atualmente\ nesta\ prateleira.\r\n
+comment4.params=n\u00FAmeroDaLinha
+comment4.target=void\ setLinha(int)
+comment4.text=\r\n\ Define\ a\ linha\ em\ que\ esta\ prateleira\ est\u00E1\ localizada.\r\n
+comment5.params=posi\u00E7\u00E3oNaLinha
+comment5.target=void\ setPosi\u00E7\u00E3o(java.lang.String)
+comment5.text=\r\n\ Define\ em\ que\ posi\u00E7\u00E3o\ na\ linha\ est\u00E1\ a\ prateleira.\r\n
+comment6.params=g\u00EAneroDaPrateleira
+comment6.target=void\ setGenero(java.lang.String)
+comment6.text=\r\n\ Define\ o\ g\u00EAnero\ dos\ livros\ desta\ prateleira\r\n
+comment7.params=
+comment7.target=void\ imprimirRela\u00E7\u00E3oDeLivros()
+comment7.text=\r\n\ Imprime\ os\ detalhes\ desta\ prateleira,\r\n\ incluindo\ a\ rela\u00E7\u00E3o\ de\ livros.\r\n
+numComments=8
